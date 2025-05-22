@@ -1,0 +1,13 @@
+{
+    "name": "ITTI Digital Theme",
+    "dataColors": [
+        "#00D084",
+        "#C8F5E5",
+        "#1C1B1F",
+        "#333333",
+        "#FFFFFF"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#1C1B1F",
+    "tableAccent": "#00D084"
+}
